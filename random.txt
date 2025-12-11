@@ -1,0 +1,30 @@
+192.168.86.68
+55639
+128.119.245.12
+80
+4236649187
+The SYN bit is set to 1 in the "Flag" 
+Yes. The TCP options field in this SYN segment indicates 
+1068969752
+The SYN bit and the ACK bit are both set to 1
+4236649188
+The value of the ACK number field is the sequence number of the next expected
+4236801228
+1448
+Nope. Not even close. 
+0.024047
+?
+?
+?
+0286245 secs
+1448 bytes
+249
+No.
+No.
+I checked the sequence numbers for segments
+Each acknowledgment acknowledges exactly 1448 bytes
+No.
+Around 1.2 MBps. 
+I figured out how many bytes were transfered
+TCP is in its slow start phase. 
+The period roughly corresponds to the RTT
